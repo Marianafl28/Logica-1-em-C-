@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\AtividadeTeams1\bin\Debug\net8.0\AtividadeTeams1.exe
+C:\Users\Aluno\source\repos\AtividadeTeams1\bin\Debug\net8.0\AtividadeTeams1.deps.json
+C:\Users\Aluno\source\repos\AtividadeTeams1\bin\Debug\net8.0\AtividadeTeams1.runtimeconfig.json
+C:\Users\Aluno\source\repos\AtividadeTeams1\bin\Debug\net8.0\AtividadeTeams1.dll
+C:\Users\Aluno\source\repos\AtividadeTeams1\bin\Debug\net8.0\AtividadeTeams1.pdb
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.dll
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\refint\AtividadeTeams1.dll
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.pdb
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\AtividadeTeams1.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\AtividadeTeams1\obj\Debug\net8.0\ref\AtividadeTeams1.dll
